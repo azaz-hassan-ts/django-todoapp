@@ -2,7 +2,6 @@ appdirs==1.4.4
 asgiref==3.4.0
 distlib==0.3.2
 Django==3.2.4
-django-cors-headers @ file:///C:/Users/azaz.hassan/Downloads/django-cors-headers-3.7.0.tar.gz
 djangorestframework==3.12.4
 filelock==3.0.12
 psycopg2==2.9.1
